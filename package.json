@@ -1,0 +1,19 @@
+{
+  "name": "react-native-preview-link",
+  "version": "8.0.0",
+  "description": "transform the url to a beautiful link preview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "previewlink",
+    "preview link",
+    "react native preview link",
+    "react native url preview",
+    "preview"
+  ],
+  "author": "Ahmed Raza <ahmedr.0331@gmail.com> (http://github.com/ahmedrashraf)",
+  "license": "ISC"
+}
